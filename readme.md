@@ -74,7 +74,11 @@ To do:
 ## Acknowledgements
 List of courses, workshops and tutorials: 
 
-- 
+- ['Python 3: From None to Machine Learning' Matt Harasymczuk](https://python.astrotech.io/)
+- ['Python Machine Learning Tutorial (Data Science)' Mosh Hamerami](https://programmingwithmosh.com/)
+- ['Machine Learning with Python' Mygretlearning](https://www.mygreatlearning.com/academy/learn-for-free/courses/machine-learning-with-python?arz=1)
+- ['Machine Learning With Python' Simplilearn](https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MachineLearningFC&utm_medium=DescriptionFirstFold&utm_source=youtube)
+- ['Machine Learning with Python' Edureka](https://www.edureka.co/masters-program/machine-learning-engineer-training)
 
 ## Contact
 Created by [@AndrzejWinogradow](https://github.com/AndrzejWinogradow) - feel free to contact me!
