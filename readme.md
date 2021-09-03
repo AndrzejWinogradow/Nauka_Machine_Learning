@@ -1,4 +1,4 @@
-# X practice and theory
+# Machine Learning practice and theory
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -15,11 +15,20 @@
 List of courses, workshops and tutorials can be read in acknowledgements
 
 ## Technologies Used
+
+- Git version 2.32.0.windows.2
+- Python 3.9.6
+- PyCharm 2021.1.3
+- Visual Studio Code 1.58.2
 <!--  - Tech 1 - version 1.0
 - Tech 2 - version 2.0
 - Tech 3 - version 3.0 -->
 
 ## List of Projects with description
+
+- 
+
+
 <!--## Features
 List the ready features here:
 - Awesome feature 1
@@ -65,6 +74,11 @@ To do:
 ## Acknowledgements
 List of courses, workshops and tutorials: 
 
+- ['Python 3: From None to Machine Learning' Matt Harasymczuk](https://python.astrotech.io/)
+- ['Python Machine Learning Tutorial (Data Science)' Mosh Hamerami](https://programmingwithmosh.com/)
+- ['Machine Learning with Python' Mygretlearning](https://www.mygreatlearning.com/academy/learn-for-free/courses/machine-learning-with-python?arz=1)
+- ['Machine Learning With Python' Simplilearn](https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MachineLearningFC&utm_medium=DescriptionFirstFold&utm_source=youtube)
+- ['Machine Learning with Python' Edureka](https://www.edureka.co/masters-program/machine-learning-engineer-training)
 
 ## Contact
 Created by [@AndrzejWinogradow](https://github.com/AndrzejWinogradow) - feel free to contact me!
